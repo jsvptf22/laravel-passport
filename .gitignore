@@ -1,0 +1,5 @@
+app/vendor
+moduler/vendor
+client/node_modules
+moduler/node_modules
+app/node_modules
